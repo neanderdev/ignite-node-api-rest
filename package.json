@@ -1,0 +1,23 @@
+{
+  "name": "ignite-node-api-rest",
+  "version": "1.0.0",
+  "description": "Nesse módulo iremos desenvolver uma API REST, mas dessa vez utilizando o Fastify, Knex, TypeScript e outras ferramentas para auxiliar durante o desenvolvimento.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neanderdev/ignite-node-api-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neanderdev/ignite-node-api-rest/issues"
+  },
+  "homepage": "https://github.com/neanderdev/ignite-node-api-rest#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
